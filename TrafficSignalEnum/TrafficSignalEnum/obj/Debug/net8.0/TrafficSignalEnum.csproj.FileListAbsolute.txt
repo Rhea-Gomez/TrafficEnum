@@ -1,0 +1,14 @@
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\bin\Debug\net8.0\TrafficSignalEnum.exe
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\bin\Debug\net8.0\TrafficSignalEnum.deps.json
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\bin\Debug\net8.0\TrafficSignalEnum.runtimeconfig.json
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\bin\Debug\net8.0\TrafficSignalEnum.dll
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\bin\Debug\net8.0\TrafficSignalEnum.pdb
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\obj\Debug\net8.0\TrafficSignalEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\obj\Debug\net8.0\TrafficSignalEnum.AssemblyInfoInputs.cache
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\obj\Debug\net8.0\TrafficSignalEnum.AssemblyInfo.cs
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\obj\Debug\net8.0\TrafficSignalEnum.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\obj\Debug\net8.0\TrafficSignalEnum.dll
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\obj\Debug\net8.0\refint\TrafficSignalEnum.dll
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\obj\Debug\net8.0\TrafficSignalEnum.pdb
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\obj\Debug\net8.0\TrafficSignalEnum.genruntimeconfig.cache
+D:\Training\Assignments\TrafficSignalEnum\TrafficSignalEnum\obj\Debug\net8.0\ref\TrafficSignalEnum.dll
